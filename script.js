@@ -47,9 +47,9 @@ function getMergedNotes() {
     const defaultNotes = [
         {
             id: '20241026-100000-000-0001',
-            title: "Welcome to Smart Notes!",
-            subtitle: "Getting Started Guide",
-            content: "Click the + button to create a new note. You can edit, pin, and delete notes using the buttons below each note. Use the search bar to find specific notes.",
+            title: "Welcome to Smart Notes of DEBAKA!",
+            subtitle: "प्रयोग गर्ने तरिका",
+            content: " तलको + बटनलाई थिचेर नयाँ नोट बनाउनुहोस्। ",
             created: "2024-10-26T10:00:00.000Z",
             lastModified: "2024-10-26T10:00:00.000Z",
             category: "General",
@@ -58,9 +58,9 @@ function getMergedNotes() {
         },
         {
             id: '20241026-100100-000-0002',
-            title: "Important Features",
-            subtitle: "What's New",
-            content: "1. Colorful note cards\n2. Search functionality\n3. Copy data feature\n4. Pin important notes\n5. Edit and delete options",
+            title: "श्रीमान सेवा",
+            subtitle: "सहसचिव",
+            content: " पुरानो नोट खोज्ने, विद्यार्थीको नम्बर जोड्ने ",
             created: "2024-10-26T10:01:00.000Z",
             lastModified: "2024-10-26T10:01:00.000Z",
             category: "Features",
@@ -69,9 +69,9 @@ function getMergedNotes() {
         },
 {
   "id": "20241026-170956-179-0003",
-  "title": "constitution",
-  "subtitle": "judicial review",
-  "content": "judicial review of legislation is brain child of judiciary",
+  "title": "Shopping",
+  "subtitle": "घरखर्चि",
+  "content": "dry fruits, cooking gas, ",
   "created": "2024-10-26T11:24:56.179Z",
   "lastModified": "2024-10-26T11:24:56.179Z",
   "category": "General",
