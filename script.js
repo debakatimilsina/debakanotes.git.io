@@ -46,6 +46,19 @@ function loadFromLocalStorage() {
 function getMergedNotes() {
     const defaultNotes = [
         {
+  "id": "20241207-195832-755-0003",
+  "title": "password",
+  "subtitle": "khalt, eswa",
+  "content": "1111-changed on dec 7, 2024, 0000",
+  "created": "2024-12-07T14:13:32.755Z",
+  "lastModified": "2024-12-07T14:13:32.755Z",
+  "category": "General",
+  "tags": [
+    "password"
+  ],
+  "pinned": false
+},
+        {
             id: '20241026-100000-000-0001',
             title: "Welcome to Smart Notes of DEBAKA!",
             subtitle: "प्रयोग गर्ने तरिका",
