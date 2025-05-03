@@ -46,6 +46,48 @@ function loadFromLocalStorage() {
 function getMergedNotes() {
     const defaultNotes = [
         {
+  "id": "20250503-164656-639-0006",
+  "title": "China training",
+  "subtitle": "china pre- shopping ",
+  "content": "1. luggage bag\n2. gifts-sikka, gita, etc\n3.",
+  "created": "2025-05-03T11:01:56.639Z",
+  "lastModified": "2025-05-03T11:01:56.639Z",
+  "category": "General",
+  "tags": [
+    "china",
+    "training"
+  ],
+  "pinned": false
+},
+        {
+  "id": "20250503-164845-479-0007",
+  "title": "China Training",
+  "subtitle": "China post-shopping",
+  "content": "1. external hard-disk\n2. sandle/jacket\n3. cosmetic items\n4. googles-ladies and gents\n5. mobile cover\n6. cap\n7. smart watch\n8. belt-2\n9. prof. bag\n10. sandle\n11. kurta/legis\n12.choclates\n13. painting brush\n14. lead pencil\n15. mobile stands\n16. perfumes.\n17. winsweater\n18.",
+  "created": "2025-05-03T11:03:45.479Z",
+  "lastModified": "2025-05-03T11:03:45.479Z",
+  "category": "General",
+  "tags": [
+    "china",
+    "training"
+  ],
+  "pinned": false
+},
+        
+        {
+  "id": "20250503-163927-405-0005",
+  "title": "China",
+  "subtitle": "reminder list",
+  "content": "1. nijamati dress-1 set\n2. daura -1 set\n3. paijama\n4. half pant\n5. trekking pant\n6. winsweater\n7. soap-1/1\n8.shoes official-1\n9. shoes on foot-1\n10. sleeeper-1\n11. socks-4 pairs (white/black)\n12. sandos-3\n13. tooth brush/ saving bag/ \n14. dry fruits\n15. khaja\n16. gifts\n17.buiscuits\n18. daka topi-2\n19. hair color",
+  "created": "2025-05-03T10:54:27.405Z",
+  "lastModified": "2025-05-03T10:54:27.405Z",
+  "category": "General",
+  "tags": [
+    "china"
+  ],
+  "pinned": false
+},
+        {
   "id": "20241207-195832-755-0003",
   "title": "password",
   "subtitle": "khalt, eswa",
